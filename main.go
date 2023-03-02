@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/spf13/cobra/cobra/cmd"
+	"github.com/go-programming-tour-book/tour/cmd"
 	"log"
 )
 
